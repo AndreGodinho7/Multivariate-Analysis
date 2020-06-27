@@ -1,4 +1,4 @@
-# Multivariate-Analysis
+# Supervised and Unsupervised learning in Breast Cancer Wisconsin dataset
 The work developed in this report intends to analyze in detail the Breast Cancer Wisconsin
 dataset by applying a thorough preliminary analysis with principal component analysis, feature
 selection and data visualization.
