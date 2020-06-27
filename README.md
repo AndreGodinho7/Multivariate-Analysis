@@ -17,3 +17,10 @@ Finally, comparisons between the results of the supervised and unsupervised tech
 will be compared, by discussing their advantages for this specific problem and generally
 
 Grade: 17/20.
+
+## Frameworks
+Python 3, jupyter-notebook, Pandas and Scikit-learn.
+
+https://pandas.pydata.org/
+
+https://scikit-learn.org/stable/
